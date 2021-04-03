@@ -1,4 +1,4 @@
-#time complexity = 0(2^N)
+#time complexity = 0(N)
 
 #using memoization
 memo = {}
